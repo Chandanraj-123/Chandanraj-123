@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **ML,DL,CV,AI,LLM**
 
-- 🌱 I’m currently learning **MLOps, CI / CD** 
+- 🌱 I’m currently learning **MLOps, CI / CD**  
 
 - 📫 How to reach me **chandanrajcl10@gmail.com**
 
