@@ -32,9 +32,8 @@
   <h2 align="center">⚡Github Current Stats ⚡</h2>
 <br>
 <div align=center>
-   <img width=320 align="left"src="https://github-readme-streak-stats.herokuapp.com/?user=Chandanraj-123&theme=tokyonight&hide_border=false" />
-   <img width=320 align="center"src="https://github-readme-stats.vercel.app/api?username=Chandanraj-123&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-   <img width=320 align="right" src="https://github-readme-stats.vercel.app/api?username=Chandanraj-123&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+   <img width=400 align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=Chandanraj-123&theme=tokyonight&hide_border=false" />
+   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Chandanraj-123&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanraj-123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&align=left"/>
   
 </div>   
